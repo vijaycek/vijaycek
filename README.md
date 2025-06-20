@@ -3,7 +3,7 @@
 I'm a Senior Backend Developer and Architect with 17+ years of experience in building scalable, cloud-native systems.
 
 🚀 **Tech Stack**
-- **Backend**: Node.js, TypeScript, Express.js, Sequelize, Laravel, Java Spring Boot
+- **Backend**: Node.js, TypeScript, Express.js, Sequelize, Laravel, Java Spring Boot, Java Struts, Hibernate, Python (Flask, Django)
 - **Cloud**: AWS (EKS, Lambda, EC2, S3, CloudWatch, API Gateway, etc.)
 - **DevOps**: Docker, Kubernetes, GitHub Actions, Jenkins
 - **Database**: MySQL, MongoDB, PostgreSQL
