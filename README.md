@@ -14,10 +14,6 @@ I'm a Senior Backend Developer and Architect with 17+ years of experience in bui
 
 📊 **Power BI Integration | Amazon SP API Expert | Prompt Engineering with GPT-4**
 
-🔗 **Portfolio**: [your-website.com]  
-🔗 **LinkedIn**: [linkedin.com/in/vijaycek]  
-📫 Reach me at: vijaycek@gmail.com
-
 <!--
 **vijaycek/vijaycek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
